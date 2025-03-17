@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Morgan Tumanggor a.k.a Mangrove7</h1>
+<h3 align="center">A newbie Competitive Programmer & AI engineer from Indonesia</h3>
+
+
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas 10 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
 
