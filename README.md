@@ -12,7 +12,7 @@ Halo , saya adalah Morgan Tumanggor siswa kelas 10 dari sekolah SMAN 1 SIDIKALAN
 ![](https://nirzak-streak-stats.vercel.app/?user=Mangroove7&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mangroove7&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Coding Stats:
+# ![](https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png) Coding Stats:
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Mangrove7&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28All+Time%29&layout=compact)
 ![](https://wakatime.com/share/@b2ac8e19-d71b-4475-8a9f-9ee98d23ede1/311706b4-7069-4cc6-ad72-27c189459705.svg)
 
