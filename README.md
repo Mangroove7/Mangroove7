@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Morgan Tumanggor a.k.a Mangrove7</h1>
-<h3 align="center">A newbie Competitive Programmer & AI engineer from Indonesia</h3>
+<h3 align="center">A n00bie Competitive Programmer & ei ai enjinir from Indonesia</h3>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2052%20mins-blue)
