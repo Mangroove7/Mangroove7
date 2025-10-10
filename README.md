@@ -2,6 +2,78 @@
 <h3 align="center">A newbie Competitive Programmer & AI engineer from Indonesia</h3>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 64.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 34 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+🌆 Daytime                11 commits          ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+🌃 Evening                14 commits          █████████░░░░░░░░░░░░░░░░   36.84 % 
+🌙 Night                  11 commits          ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   12 commits          ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Thursday                 6 commits           ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Friday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Saturday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Sunday                   14 commits          █████████░░░░░░░░░░░░░░░░   36.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+C++                      1 hr 2 mins         █████████████████████████   99.74 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+
+🔥 Editors: 
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+SUBMISI OJ               42 mins             █████████████████░░░░░░░░   68.40 % 
+Catatan CP               19 mins             ████████░░░░░░░░░░░░░░░░░   31.60 % 
+
+💻 Operating System: 
+Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+HTML                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
+
+
+ Last Updated on 10/10/2025 01:48:59 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas 10 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
