@@ -2,7 +2,7 @@
 <h3 align="center">A n00bie Competitive Programmer & ei ai enjinir from Indonesia</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-39-blue)
 
@@ -47,19 +47,24 @@ Minggu                   14 commits          █████████░░�
 🕑︎ Zona waktu: Asia/Bangkok
 
 💬 Bahasa: 
-C++                      4 hrs 47 mins       █████████████████████████   99.85 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+C++                      5 hrs 8 mins        ████████████████████████░   95.37 % 
+TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editor: 
-VS Code                  4 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-SUBMISI OJ               3 hrs 43 mins       ███████████████████░░░░░░   77.82 % 
-New folder               58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-ACER                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+SUBMISI OJ               3 hrs 43 mins       █████████████████░░░░░░░░   69.17 % 
+New folder               58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Informatika              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+competitive-companion    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+ACER                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 💻 Sistem Operasi: 
-Windows                  4 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa C++** 
@@ -79,7 +84,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2025 01:01:35 UTC
+ Last Updated on 14/10/2025 00:57:48 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas 10 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
