@@ -2,7 +2,7 @@
 <h3 align="center">A n00bie Competitive Programmer & ei ai enjinir from Indonesia</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
@@ -84,7 +84,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2025 01:05:18 UTC
+ Last Updated on 28/10/2025 00:58:31 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas 10 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
