@@ -2,9 +2,7 @@
 <h3 align="center">A n00bie Competitive Programmer & cysec from Indonesia</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2034%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profil%20dilihat-5-blue)
+![Profile Views](http://img.shields.io/badge/Profil%20dilihat-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-2.6%20million%20baris%20kode-blue)
 
@@ -47,22 +45,22 @@ Minggu                   89 commits          ██████░░░░░�
 🕑︎ Zona waktu: Asia/Bangkok
 
 💬 Bahasa: 
-C++                      6 hrs 20 mins       ████████████████████░░░░░   80.90 % 
-Text                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+C++                      4 hrs 51 mins       ████████████████████░░░░░   81.32 % 
+Text                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editor: 
-VS Code                  7 hrs 47 mins       █████████████████████████   99.52 % 
-Obsidian                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+VS Code                  5 hrs 56 mins       █████████████████████████   99.37 % 
+Obsidian                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🐱‍💻 Proyek: 
-SUBMISI OJ               7 hrs 47 mins       █████████████████████████   99.52 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+SUBMISI OJ               5 hrs 56 mins       █████████████████████████   99.37 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Sistem Operasi: 
-Windows                  7 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa C++** 
@@ -82,7 +80,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 01:00:25 UTC
+ Last Updated on 16/11/2025 01:05:52 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas -10- 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
