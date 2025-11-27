@@ -2,7 +2,7 @@
 <h3 align="center">A n00bie Competitive Programmer & cysec from Indonesia</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-5-blue)
 
@@ -47,19 +47,22 @@ Minggu                   92 commits          ██████░░░░░�
 🕑︎ Zona waktu: Asia/Bangkok
 
 💬 Bahasa: 
-C++                      1 hr 20 mins        █████████████████████████   98.68 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+C++                      1 hr 20 mins        ██████████████░░░░░░░░░░░   57.03 % 
+Markdown                 59 mins             ███████████░░░░░░░░░░░░░░   42.64 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editor: 
-VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 22 mins        ███████████████░░░░░░░░░░   58.60 % 
+Obsidian                 58 mins             ██████████░░░░░░░░░░░░░░░   41.40 % 
 
 🐱‍💻 Proyek: 
-SUBMISI OJ               1 hr 20 mins        █████████████████████████   99.26 % 
-cp-algorithms            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+SUBMISI OJ               1 hr 20 mins        ██████████████░░░░░░░░░░░   57.36 % 
+Unknown Project          58 mins             ██████████░░░░░░░░░░░░░░░   41.40 % 
+ACER                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+cp-algorithms            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Sistem Operasi: 
-Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa TypeScript** 
@@ -79,7 +82,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2025 01:02:10 UTC
+ Last Updated on 27/11/2025 01:01:07 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas -10- 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
