@@ -2,7 +2,7 @@
 <h3 align="center">A n00bie Competitive Programmer & cysec from Indonesia</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-5-blue)
 
@@ -83,7 +83,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2025 00:59:52 UTC
+ Last Updated on 29/11/2025 01:00:18 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas -10- 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
