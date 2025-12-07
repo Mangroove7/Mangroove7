@@ -2,7 +2,7 @@
 <h3 align="center">A n00bie Competitive Programmer & cysec from Indonesia</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
@@ -47,20 +47,22 @@ Minggu                   92 commits          ██████░░░░░�
 🕑︎ Zona waktu: Asia/Bangkok
 
 💬 Bahasa: 
-C++                      12 mins             ███████████████████░░░░░░   74.68 % 
-JSON                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Other                    1 hr 25 mins        █████████████████████░░░░   83.54 % 
+C++                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editor: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+ZoomMeetings             1 hr 25 mins        █████████████████████░░░░   83.54 % 
+VS Code                  16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
 
 🐱‍💻 Proyek: 
-BUKU                     15 mins             ███████████████████████░░   90.22 % 
-Unknown Project          1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-SUBMISI OJ               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Unknown Project          1 hr 27 mins        █████████████████████░░░░   85.06 % 
+BUKU                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+SUBMISI OJ               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Sistem Operasi: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa TypeScript** 
@@ -80,7 +82,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2025 01:00:38 UTC
+ Last Updated on 07/12/2025 01:09:45 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas -10- 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
