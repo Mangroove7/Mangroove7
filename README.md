@@ -2,7 +2,7 @@
 <h3 align="center">A n00bie Competitive Programmer & cysec from Indonesia</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
@@ -47,21 +47,19 @@ Minggu                   96 commits          ██████░░░░░�
 🕑︎ Zona waktu: Asia/Bangkok
 
 💬 Bahasa: 
-Other                    1 hr 25 mins        ████████████░░░░░░░░░░░░░   46.82 % 
-C++                      1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   40.15 % 
-Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+C++                      1 hr 13 mins        ███████████████████░░░░░░   75.50 % 
+Markdown                 23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
 
 🔥 Editor: 
-ZoomMeetings             1 hr 25 mins        ████████████░░░░░░░░░░░░░   46.82 % 
-VS Code                  1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   40.15 % 
-Obsidian                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+VS Code                  1 hr 13 mins        ███████████████████░░░░░░   75.50 % 
+Obsidian                 23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
 
 🐱‍💻 Proyek: 
-Unknown Project          1 hr 49 mins        ███████████████░░░░░░░░░░   59.85 % 
-SUBMISI OJ               1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   40.15 % 
+SUBMISI OJ               1 hr 13 mins        ███████████████████░░░░░░   75.50 % 
+Unknown Project          23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
 
 💻 Sistem Operasi: 
-Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa TypeScript** 
@@ -81,7 +79,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2025 01:01:27 UTC
+ Last Updated on 14/12/2025 01:10:00 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas -10- 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
