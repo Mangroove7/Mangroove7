@@ -2,7 +2,7 @@
 <h3 align="center">A n00bie Competitive Programmer & cysec from Indonesia</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue)
 
@@ -47,17 +47,18 @@ Minggu                   97 commits          ██████░░░░░�
 🕑︎ Zona waktu: Asia/Bangkok
 
 💬 Bahasa: 
-C++                      11 mins             ██████████████████████░░░   86.14 % 
-Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+C++                      3 mins              ███████████████░░░░░░░░░░   61.79 % 
+Other                    1 min               █████████░░░░░░░░░░░░░░░░   36.64 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editor: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-SUBMISI OJ               13 mins             █████████████████████████   100.00 % 
+SUBMISI OJ               5 mins              █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa TypeScript** 
@@ -77,7 +78,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2025 01:03:39 UTC
+ Last Updated on 28/12/2025 01:13:38 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas -10- 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
