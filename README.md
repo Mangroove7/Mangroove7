@@ -2,7 +2,7 @@
 <h3 align="center">A n00bie Competitive Programmer & cysec from Indonesia</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue?style=flat)
 
@@ -47,18 +47,18 @@ Minggu                   107 commits         ██████░░░░░�
 🕑︎ Zona waktu: Asia/Bangkok
 
 💬 Bahasa: 
-Python                   1 hr 29 mins        ██████████████████████░░░   89.09 % 
-C++                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Python                   2 hrs               ██████████████████████░░░   86.83 % 
+C++                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
 
 🔥 Editor: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-lktin                    1 hr 29 mins        ██████████████████████░░░   89.09 % 
-SUBMISI OJ               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+lktin                    2 hrs 7 mins        ███████████████████████░░   92.12 % 
+SUBMISI OJ               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 💻 Sistem Operasi: 
-Windows                  1 hr 40 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa TypeScript** 
@@ -78,7 +78,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2026 01:24:33 UTC
+ Last Updated on 05/04/2026 01:47:07 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas ~10~ 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
