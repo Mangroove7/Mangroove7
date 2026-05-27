@@ -47,17 +47,16 @@ Minggu                   107 commits         ██████░░░░░�
 🕑︎ Zona waktu: Asia/Bangkok
 
 💬 Bahasa: 
-C++                      15 mins             █████████████████████████   99.38 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+C++                      7 mins              █████████████████████████   100.00 % 
 
 🔥 Editor: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-scrapetwitter            15 mins             █████████████████████████   100.00 % 
+SUBMISI OJ               7 mins              █████████████████████████   100.00 % 
 
 💻 Sistem Operasi: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa TypeScript** 
@@ -77,7 +76,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2026 02:30:48 UTC
+ Last Updated on 27/05/2026 02:40:20 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas ~10~ 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
