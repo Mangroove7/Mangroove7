@@ -2,8 +2,6 @@
 <h3 align="center">A n00bie Competitive Programmer & cysec from Indonesia</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2027%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-2.66%20million%20baris%20kode-blue?style=flat)
@@ -12,7 +10,7 @@
 
 > 📦 89.9 kB Digunakan di GitHub Storage 
  > 
-> 🏆 52 Kontribusi pada 2026
+> 🏆 53 Kontribusi pada 2026
  > 
 > 🚫 Tidak sedang bisa dipekerjakan
  > 
@@ -20,48 +18,6 @@
  > 
 > 🔑 5 Repositori pribadi 
  > 
-**Aku orangnya nokturnal 🦉** 
-
-```text
-🌞 Pagi                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-🌆 Siang                  62 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-🌃 Petang                 279 commits         ████████████████░░░░░░░░░   64.29 % 
-🌙 Malam                  43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-```
-📅 **Paling produktif saat Sabtu** 
-
-```text
-Senin                    35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Selasa                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Rabu                     28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Kamis                    34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Jumat                    22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Sabtu                    189 commits         ███████████░░░░░░░░░░░░░░   43.55 % 
-Minggu                   107 commits         ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-```
-
-
-📊 **Minggu ini menghabiskan waktu di** 
-
-```text
-🕑︎ Zona waktu: Asia/Bangkok
-
-💬 Bahasa: 
-Markdown                 59 mins             ██████████████████████░░░   89.06 % 
-C++                      7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-
-🔥 Editor: 
-Obsidian                 59 mins             ██████████████████████░░░   89.06 % 
-VS Code                  7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-
-🐱‍💻 Proyek: 
-Unknown Project          59 mins             ██████████████████████░░░   89.06 % 
-SUBMISI OJ               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-
-💻 Sistem Operasi: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
-```
-
 **Kebanyakan menulis dalam bahasa TypeScript** 
 
 ```text
@@ -79,7 +35,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 02:27:47 UTC
+ Last Updated on 07/06/2026 02:45:44 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas ~10~ 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
