@@ -45,22 +45,23 @@ Minggu                   107 commits         ██████░░░░░�
 🕑︎ Zona waktu: Asia/Bangkok
 
 💬 Bahasa: 
-C++                      4 hrs 20 mins       ███████████████████░░░░░░   75.73 % 
-JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Text                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+C++                      4 hrs 29 mins       ████████████████████░░░░░   81.00 % 
+JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editor: 
-VS Code                  4 hrs 41 mins       ████████████████████░░░░░   81.73 % 
-Antigravity Desktop      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+VS Code                  4 hrs 30 mins       ████████████████████░░░░░   81.12 % 
+Antigravity Desktop      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
 
 🐱‍💻 Proyek: 
-SUBMISI OJ               4 hrs 41 mins       ████████████████████░░░░░   81.73 % 
-IQ-booster               1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+SUBMISI OJ               3 hrs 24 mins       ███████████████░░░░░░░░░░   61.39 % 
+Last Hope                1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+IQ-booster               1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
 
 💻 Sistem Operasi: 
-Windows                  5 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **Kebanyakan menulis dalam bahasa TypeScript** 
@@ -80,7 +81,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 01:56:04 UTC
+ Last Updated on 25/07/2026 01:55:29 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas ~10~ 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
