@@ -2,6 +2,10 @@
 <h3 align="center">A n00bie Competitive Programmer & cysec from Indonesia</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2023%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2021%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-2.66%20million%20baris%20kode-blue?style=flat)
@@ -45,21 +49,21 @@ Minggu                   107 commits         ██████░░░░░�
 🕑︎ Zona waktu: Asia/Bangkok
 
 💬 Bahasa: 
-C++                      2 hrs 21 mins       ████████████████████████░   96.67 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+C++                      1 hr 51 mins        ████████████████████████░   95.81 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editor: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-Last Hope                1 hr 18 mins        █████████████░░░░░░░░░░░░   53.47 % 
-OSNP                     34 mins             ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-SUBMISI OJ               33 mins             ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Last Hope                1 hr 18 mins        █████████████████░░░░░░░░   67.36 % 
+OSNP                     34 mins             ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+SUBMISI OJ               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 💻 Sistem Operasi: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -85,7 +89,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 01:51:07 UTC
+ Last Updated on 30/07/2026 01:43:48 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas ~10~ 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
