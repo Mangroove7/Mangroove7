@@ -49,21 +49,20 @@ Minggu                   107 commits         ██████░░░░░�
 🕑︎ Zona waktu: Asia/Bangkok
 
 💬 Bahasa: 
-C++                      1 hr 51 mins        ████████████████████████░   95.81 % 
-Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+C++                      1 hr 48 mins        ████████████████████████░   95.71 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editor: 
-VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Proyek: 
-Last Hope                1 hr 18 mins        █████████████████░░░░░░░░   67.36 % 
-OSNP                     34 mins             ███████░░░░░░░░░░░░░░░░░░   29.62 % 
-SUBMISI OJ               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Last Hope                1 hr 18 mins        █████████████████░░░░░░░░   68.95 % 
+OSNP                     35 mins             ████████░░░░░░░░░░░░░░░░░   31.05 % 
 
 💻 Sistem Operasi: 
-Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,7 +88,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 01:43:48 UTC
+ Last Updated on 31/07/2026 02:01:20 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas ~10~ 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
