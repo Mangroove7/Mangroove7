@@ -2,7 +2,7 @@
 <h3 align="center">A n00bie Competitive Programmer & cysec from Indonesia</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2021%20mins-blue?style=flat)
 
@@ -49,22 +49,49 @@ Minggu                   107 commits         ██████░░░░░�
 🕑︎ Zona waktu: Asia/Bangkok
 
 💬 Bahasa: 
-C++                      7 mins              █████████████████████████   100.00 % 
+Python                   2 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.33 % 
+Other                    1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   37.50 % 
+Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+C++                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🔥 Editor: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  3 hrs 54 mins       ███████████████████░░░░░░   75.86 % 
+Antigravity Desktop      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Obsidian                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 🐱‍💻 Proyek: 
-ACER                     7 mins              █████████████████████████   100.00 % 
+Unknown Project          2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.67 % 
+solve.py                 1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+CTF                      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+WRITEUP_ALL.md           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+ACER                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 💻 Sistem Operasi: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 24 mins (85.59%)
+
+✍️ 16 lines written by AI, 511 lines written by hand (3.04% AI-written)
+
+🔤 97,923,133 Input Tokens, 468,247 Output Tokens
+
+💵 $583.99 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 13 AI Prompts
+
+Sonnet                   35 lines            █████████████████████████   100.00 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 3.04% of written lines came from AI
+📝 Concise Prompter — average 129 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 95.39% of changed lines were hand-edited
 ```
 
 **Kebanyakan menulis dalam bahasa TypeScript** 
@@ -84,7 +111,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 00:44:47 UTC
+ Last Updated on 23/08/2026 00:50:19 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas ~10~ 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
