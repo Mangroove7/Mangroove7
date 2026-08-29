@@ -49,33 +49,32 @@ Minggu                   107 commits         ██████░░░░░�
 🕑︎ Zona waktu: Asia/Bangkok
 
 💬 Bahasa: 
-Python                   2 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.33 % 
-Other                    1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   37.50 % 
-Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-C++                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Python                   2 hrs 23 mins       ████████████░░░░░░░░░░░░░   47.54 % 
+Other                    1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   38.47 % 
+Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 
 🔥 Editor: 
-VS Code                  3 hrs 54 mins       ███████████████████░░░░░░   75.86 % 
-Antigravity Desktop      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-Obsidian                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+VS Code                  3 hrs 46 mins       ███████████████████░░░░░░   75.23 % 
+Antigravity Desktop      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Obsidian                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🐱‍💻 Proyek: 
-Unknown Project          2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.67 % 
-solve.py                 1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-CTF                      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
-WRITEUP_ALL.md           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-ACER                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Unknown Project          2 hrs 21 mins       ████████████░░░░░░░░░░░░░   46.86 % 
+solve.py                 1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+CTF                      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+WRITEUP_ALL.md           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+build_md.py              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 💻 Sistem Operasi: 
-Windows                  5 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 24 mins (85.59%)
+⏱ AI Coding Time: 4 hrs 24 mins (87.82%)
 
-✍️ 16 lines written by AI, 511 lines written by hand (3.04% AI-written)
+✍️ 16 lines written by AI, 316 lines written by hand (4.82% AI-written)
 
 🔤 97,923,133 Input Tokens, 468,247 Output Tokens
 
@@ -88,10 +87,10 @@ GLM                      0 lines             ░░░░░░░░░░░�
 ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.04% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 4.82% of written lines came from AI
 📝 Concise Prompter — average 129 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 95.39% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.81% of changed lines were hand-edited
 ```
 
 **Kebanyakan menulis dalam bahasa TypeScript** 
@@ -111,7 +110,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 08:11:53 UTC
+ Last Updated on 29/08/2026 04:57:21 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas ~10~ 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
