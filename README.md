@@ -49,48 +49,22 @@ Minggu                   107 commits         ██████░░░░░�
 🕑︎ Zona waktu: Asia/Bangkok
 
 💬 Bahasa: 
-Python                   2 hrs 23 mins       ████████████░░░░░░░░░░░░░   47.54 % 
-Other                    1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   38.47 % 
-Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 🔥 Editor: 
-VS Code                  3 hrs 46 mins       ███████████████████░░░░░░   75.23 % 
-Antigravity Desktop      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Obsidian                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 🐱‍💻 Proyek: 
-Unknown Project          2 hrs 21 mins       ████████████░░░░░░░░░░░░░   46.86 % 
-solve.py                 1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-CTF                      1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-WRITEUP_ALL.md           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-build_md.py              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Tidak ada aktivitas dilacak minggu Ini
 
 💻 Sistem Operasi: 
-Windows                  5 hrs 1 min         █████████████████████████   100.00 % 
+Tidak ada aktivitas dilacak minggu Ini
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 24 mins (87.82%)
-
-✍️ 16 lines written by AI, 316 lines written by hand (4.82% AI-written)
-
-🔤 97,923,133 Input Tokens, 468,247 Output Tokens
-
-💵 $583.99 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 13 AI Prompts
-
-Sonnet                   35 lines            █████████████████████████   100.00 % 
-GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.82% of written lines came from AI
-📝 Concise Prompter — average 129 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 93.81% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **Kebanyakan menulis dalam bahasa TypeScript** 
@@ -110,7 +84,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 04:57:21 UTC
+ Last Updated on 30/08/2026 02:43:33 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas ~10~ 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
