@@ -8,38 +8,38 @@
 
 ![Profile Views](http://img.shields.io/badge/Profil%20dilihat-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-2.66%20million%20baris%20kode-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/Sejak%20Hello%20World%20aku%20telah%20menulis-2.69%20million%20baris%20kode-blue?style=flat)
 
 **🐱 Dataku di GitHub** 
 
-> 📦 87.3 kB Digunakan di GitHub Storage 
+> 📦 91.2 kB Digunakan di GitHub Storage 
  > 
-> 🏆 55 Kontribusi pada 2026
+> 🏆 65 Kontribusi pada 2026
  > 
 > 🚫 Tidak sedang bisa dipekerjakan
  > 
-> 📜 11 Repositori publik 
+> 📜 12 Repositori publik 
  > 
 > 🔑 5 Repositori pribadi 
  > 
 **Aku orangnya nokturnal 🦉** 
 
 ```text
-🌞 Pagi                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-🌆 Siang                  63 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-🌃 Petang                 281 commits         ████████████████░░░░░░░░░   64.30 % 
-🌙 Malam                  43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+🌞 Pagi                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+🌆 Siang                  66 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+🌃 Petang                 284 commits         ████████████████░░░░░░░░░   63.68 % 
+🌙 Malam                  46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
 ```
 📅 **Paling produktif saat Sabtu** 
 
 ```text
-Senin                    36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-Selasa                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Rabu                     28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Kamis                    34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Jumat                    22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Sabtu                    190 commits         ███████████░░░░░░░░░░░░░░   43.48 % 
-Minggu                   107 commits         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Senin                    36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Selasa                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Rabu                     34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Kamis                    37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Jumat                    22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Sabtu                    190 commits         ███████████░░░░░░░░░░░░░░   42.60 % 
+Minggu                   107 commits         ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
 ```
 
 
@@ -70,11 +70,11 @@ No AI Coding Activity Tracked This Week
 **Kebanyakan menulis dalam bahasa TypeScript** 
 
 ```text
-TypeScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
-C++                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TypeScript               4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+C++                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
@@ -84,7 +84,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 02:20:58 UTC
+ Last Updated on 10/09/2026 02:20:08 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas ~10~ 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
