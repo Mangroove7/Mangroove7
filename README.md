@@ -70,11 +70,11 @@ No AI Coding Activity Tracked This Week
 **Kebanyakan menulis dalam bahasa TypeScript** 
 
 ```text
-TypeScript               4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
-C++                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+TypeScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+C++                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -84,7 +84,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Mangroove7/Mangroove7/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 03:31:30 UTC
+ Last Updated on 13/10/2026 04:45:52 UTC
 <!--END_SECTION:waka-->
 # 💫 About Me:
 Halo , saya adalah Morgan Tumanggor siswa kelas ~10~ 11 dari sekolah SMAN 1 SIDIKALANG.<br>Saya dapat memakai bahasa C++ dan Python dalam pengerjaan proyek.<br>Salam kenal semuanya ;D
